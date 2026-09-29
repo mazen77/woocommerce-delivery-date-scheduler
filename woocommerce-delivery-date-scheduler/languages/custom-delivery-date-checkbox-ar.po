@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Delivery Date Scheduler 1.5.0\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgctxt "Order status"
+msgid "Scheduled Delivery"
+msgstr "مجدول التسليم"
+
+msgid "Scheduled Delivery <span class=\"count\">(%s)</span>"
+msgid_plural "Scheduled Delivery <span class=\"count\">(%s)</span>"
+msgstr[0] "مجدول التسليم <span class=\"count\">(%s)</span>"
+msgstr[1] "مجدول التسليم <span class=\"count\">(%s)</span>"
+msgstr[2] "مجدول التسليم <span class=\"count\">(%s)</span>"
+msgstr[3] "مجدول التسليم <span class=\"count\">(%s)</span>"
+msgstr[4] "مجدول التسليم <span class=\"count\">(%s)</span>"
+msgstr[5] "مجدول التسليم <span class=\"count\">(%s)</span>"
+
+msgctxt "Order status"
+msgid "Packing"
+msgstr "قيد التجهيز"
+
+msgid "Packing <span class=\"count\">(%s)</span>"
+msgid_plural "Packing <span class=\"count\">(%s)</span>"
+msgstr[0] "قيد التجهيز <span class=\"count\">(%s)</span>"
+msgstr[1] "قيد التجهيز <span class=\"count\">(%s)</span>"
+msgstr[2] "قيد التجهيز <span class=\"count\">(%s)</span>"
+msgstr[3] "قيد التجهيز <span class=\"count\">(%s)</span>"
+msgstr[4] "قيد التجهيز <span class=\"count\">(%s)</span>"
+msgstr[5] "قيد التجهيز <span class=\"count\">(%s)</span>"
+
+msgid "Auto-moved to packing on delivery date."
+msgstr "تم نقل الطلب تلقائياً إلى قيد التجهيز في موعد التوصيل."
+
+msgid "Delivery options"
+msgstr "خيارات التوصيل"
+
+msgid "Choose a delivery date (optional)"
+msgstr "اختر موعد التوصيل (اختياري)"
+
+msgid "Choose a delivery date"
+msgstr "اختر موعد التوصيل"
+
+msgid "Please choose a delivery date."
+msgstr "فضلاً اختر موعد توصيل."
+
+msgid "Invalid delivery date format."
+msgstr "صيغة تاريخ التوصيل غير صحيحة."
+
+msgid "Please choose one of the available delivery dates."
+msgstr "فضلاً اختر أحد مواعيد التوصيل المتاحة."
+
+msgid "Auto status based on scheduled delivery date."
+msgstr "تم تحديث حالة الطلب تلقائياً بناءً على موعد التوصيل المجدول."
+
+msgid "Delivery date"
+msgstr "موعد التوصيل"
+
+msgid "Delivery date:"
+msgstr "موعد التوصيل:"
+
+msgid "Delivery Date Settings"
+msgstr "إعدادات موعد التوصيل"
+
+msgid "Checkout rules"
+msgstr "إعدادات صفحة الدفع"
+
+msgid "Controls the first available delivery date offset and how many date tiles appear at checkout."
+msgstr "تتحكم في أول موعد توصيل متاح وعدد خيارات التاريخ المعروضة في صفحة الدفع."
+
+msgid "Minimum days after order date"
+msgstr "الحد الأدنى للأيام بعد تاريخ الطلب"
+
+msgid "Number of delivery date options"
+msgstr "عدد خيارات مواعيد التوصيل"
+
+msgid "Example: 3 means first option is today + 3 days."
+msgstr "مثال: القيمة 3 تعني أن أول موعد متاح هو اليوم + 3 أيام."
+
+msgid "Example: 7 means show 7 tiles starting from the first available date."
+msgstr "مثال: القيمة 7 تعني عرض 7 خيارات بدءاً من أول موعد متاح."
+
+msgid "You do not have permission to access this page."
+msgstr "ليس لديك صلاحية للوصول إلى هذه الصفحة."
+
+msgid "WooCommerce Delivery Date Scheduler requires WooCommerce to be installed and active."
+msgstr "تتطلب إضافة جدولة موعد التوصيل تثبيت ووكومرس وتفعيله."
